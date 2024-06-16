@@ -23,8 +23,8 @@ if __name__ == "__main__":
         url = sys.argv[1].strip()
 
     except IndexError:
-        print("[-]usuage : %s <url> <payload>" % sys.argv[0])
-        print('[-] Example: %s www.example.com "1=1" ' % sys.argv[0])
+        print("[-]usuage : %s <url> " % sys.argv[0])
+        print('[-] Example: %s "www.example.com" ' % sys.argv[0])
         sys.exit(-1)
 
     print("[+] figuring out the number of columns ....")
