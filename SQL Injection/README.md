@@ -2,4 +2,5 @@ This are the Python scripts to exploit portswigger labs (sql Injection) without 
 
 
 
-Followed by the script enter the url in " url "
+Followed by the script enter the url in " url " and usage added in the script
+
